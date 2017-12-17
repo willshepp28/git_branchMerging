@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+
+body { display: flex; justify-content: center;}
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin-top: 100px;
+}
